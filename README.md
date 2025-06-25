@@ -10,7 +10,7 @@ It showcases my skills, projects, and contact information in a clean and profess
 ## 📁 Project Structure
 - `index.html` – Main homepage of the portfolio
 - `style.css` – Styling for the website layout and elements
-- `images/` – Folder containing portfolio images (if any)
+- `images/` – Folder containing portfolio images
 
 ## 💻 How to Run
 1. Download or clone the repository.
